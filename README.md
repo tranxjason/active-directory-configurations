@@ -57,7 +57,7 @@ Lastly to verify that normal users can RDP into Client-1 I will use a script to 
 ![domain users](https://github.com/user-attachments/assets/b9cb038a-bde7-405f-a449-6e1d9532b661)
 ![command line users](https://github.com/user-attachments/assets/f09a84de-1a01-436d-bdd1-b6691de06b70)
 
-The Powershell script created a user with the username "bab.hubo" I am able to login to Client-1 with his credentials as a normal user.
+The Powershell script created a user with the username "bab.hubo" I am now able to login to Client-1 with his credentials as a normal user.
 
 <h2>Lessons Learned</h2>
 
