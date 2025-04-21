@@ -61,4 +61,4 @@ The Powershell script created a user with the username "bab.hubo" I am now able 
 
 <h2>Lessons Learned</h2>
 
-This project enhanced my understanding of Active Directory configuration, including domain controller setup, user and group management, and domain joining. I learned how DNS and firewall settings affect connectivity and how to enable domain-wide access via Group Policy and Remote Desktop. It also strengthened my skills in automation using PowerShell to efficiently manage large user accounts
+Through this lab, I learned how to configure Active Directory from scratch, including promoting a VM to a domain controller, creating a new forest, and joining a client machine to the domain. I gained experience managing DNS settings, enabling firewall rules, creating users and organizational units, and allowing Remote Desktop access for domain users. I also practiced automation by generating user accounts with PowerShell.
